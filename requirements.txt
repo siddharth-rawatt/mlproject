@@ -1,5 +1,6 @@
 pandas
 numpy
 seaborn
+datetime
 -e .
 # This last line helps in automatticaly triggering setup.py file
