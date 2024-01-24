@@ -1,6 +1,12 @@
-pandas
 numpy
+pyarrow
+pandas
 seaborn
 datetime
+matplotlib
+scikit-learn
+catboost==1.1.1
+xgboost
+dataclasses
 -e .
 # This last line helps in automatticaly triggering setup.py file
