@@ -8,5 +8,6 @@ scikit-learn
 catboost==1.1.1
 xgboost
 dataclasses
--e .
+dill
+# -e .
 # This last line helps in automatticaly triggering setup.py file
